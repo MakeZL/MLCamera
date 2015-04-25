@@ -1,8 +1,7 @@
 # MLCamera
 A simple Multi shot camera.
 
-![image](https://github.com/MakeZL/MLCamera/blob/master/screenshot.png)
-
+<img src="https://github.com/MakeZL/MLCamera/blob/master/screenshot.png" height="500" />
 
 ### Use 
 ###### import "MLCameraViewController.h"
