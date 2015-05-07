@@ -3,6 +3,9 @@ A simple Multi shot camera.
 
 <img src="https://github.com/MakeZL/MLCamera/blob/master/screenshot.png" height="500" />
 
+### CocoaPod
+    pod search 'MLCamera'
+    
 ### Use 
 ###### import "MLCameraViewController.h"
     __weak typeof(self)weakSelf = self;

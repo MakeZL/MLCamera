@@ -21,5 +21,7 @@ typedef void(^MLCompleteBlock)(NSArray *images);
 @property (weak, nonatomic) UIView *controlView;
 // Done Callback
 @property (copy, nonatomic) MLCompleteBlock completeBlock;
+// 拍照的个数限制
+@property (assign,nonatomic) NSUInteger maxCount;
 
 @end
